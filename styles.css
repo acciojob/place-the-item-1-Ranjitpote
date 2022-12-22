@@ -1,5 +1,12 @@
 
 /* Your CSS Code here. */
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(203, 225, 225);
+    padding: 10px;
+    margin: 20px;
+}
 .holder{
     display: flex;
     justify-content: space-between;
